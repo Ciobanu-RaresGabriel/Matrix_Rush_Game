@@ -1,0 +1,35 @@
+﻿  Source.cpp
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(187): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(193): warning C4018: '<': signed/unsigned mismatch
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(287): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(290): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(293): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(296): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(299): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(302): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(305): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(308): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(312): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(316): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(320): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(324): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(327): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(330): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(333): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(336): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(339): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(342): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(345): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(348): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(351): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(354): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(357): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(360): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+c:\users\diana\documents\matrix rush game\matrix rush game\source.cpp(363): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  Matrix Rush Game.vcxproj -> C:\Users\Diana\Documents\Matrix Rush Game\Debug\Matrix Rush Game.exe
