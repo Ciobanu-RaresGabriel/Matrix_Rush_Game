@@ -49,6 +49,7 @@ The character colors in the game are:
 # Download the game
 
 To make it easier for you to run the game, I have created an archive that contains all the necessary files. Download the archive to get started quickly.
+
 [Download the Archive](https://github.com/Ciobanu-RaresGabriel/Matrix_Rush_Game/blob/master/Matrix%20Rush%20Game.rar)
 
 
