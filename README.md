@@ -1,7 +1,8 @@
 # Matrix Rush Game
 
-Matrix Rush Game is a game where your goal is to avoid falling objects that descend from the top of the screen at regular intervals, with the speed increasing as you progress through the levels.
-You control a horizontal bar located at the bottom of the screen , preventing it from intersecting with the descending shapes.
+ Matrix Rush Game is a game created in Visual Studio using the C programming language.
+ Your goal is to avoid falling objects that descend from the top of the screen at regular intervals, with the speed increasing as you progress through the levels.
+ You control a horizontal bar located at the bottom of the screen, preventing it from intersecting with the descending shapes.
 
 ## Features
 
